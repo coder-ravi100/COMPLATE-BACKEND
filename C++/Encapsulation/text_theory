@@ -1,0 +1,14 @@
+ENCAPSULATION KYA HAI?
+
+Simple language:
+
+Data + methods ko ek hi unit me bandh dena aur data ko direct access se protect karna.
+
+Python me yeh class ke through hota hai.
+
+Real example:
+Bank account.
+Balance ko koi bahar se direct change na kar sake.
+Sirf deposit aur withdraw method se hi change ho.
+
+Yahi Encapsulation hai.
