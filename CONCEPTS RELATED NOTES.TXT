@@ -11,8 +11,18 @@
 PASS
 
 #2.Django Framework
-    🔑Simple Curd Operation
+     📌project Urle
+     📌App Urls
+     📌App Views
+     📌templates
+     📌Static 
+     📌Admin Model Registration
+
+💻Simple Curd Operation
+ -view data -update data -Delete data -select data
+
 #3.Rest API Frame
 #4.Fast API
 
+Series Pending.....
 
