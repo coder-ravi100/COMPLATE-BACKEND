@@ -9,7 +9,10 @@
     (Optional)
     🔑File Handling
 
+PASS
+
 #2.Django Framework
+    🔑Simple Curd Operation
 #3.Rest API Frame
 #4.Fast API
 
