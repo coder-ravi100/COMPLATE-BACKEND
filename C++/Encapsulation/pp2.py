@@ -16,6 +16,6 @@ class Employee:
 e1 = Employee(101,"ravi",25000,"pic_1")
 print(e1.get())
 
-e1.set(15000)
-print(e1.get())
+# e1.set(15000)
+# print(e1.get())
         
