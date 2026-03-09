@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #1.BASIC PYTHON 
     ⛔Variable And Data Type
     ⛔Operator
@@ -7,8 +6,7 @@
     ⛔Function
     ⛔Oops
     ⛔Exception Handling
-    (Optional)
-    ⛔File Handling
+    ⛔File Handling (Optional)
 
 #2.DJANGO FRAMEWOORKS
     ⛔What is Django
