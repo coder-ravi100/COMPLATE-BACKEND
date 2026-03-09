@@ -1,19 +1,81 @@
-#1.Basic Python 
-    🔑Variable And Data Type
-    🔑Operator
-    🔑Condition Statement
-    🔑Loop
-    🔑Function
-    🔑Oops
-    🔑Exception Handling
+#1.BASIC PYTHON 
+    ⛔Variable And Data Type
+    ⛔Operator
+    ⛔Condition Statement
+    ⛔Loop
+    ⛔Function
+    ⛔Oops
+    ⛔Exception Handling
     (Optional)
-    🔑File Handling
+    ⛔File Handling
 
-PASS
+#2.DJANGO FRAMEWOORKS
+    ⛔What is Django
+        🔺High-level Python Web Framework
+        🔺Designed for fast. secure. scalable. development
+        🔺Open-source & community-driven
+        🔺follows MVT (Model View Template) architecture
+        🔺Motto : The web Framework for perfectionists with deadlines
+    
+    ⛔Key Features
+        🔺Batteries include-built-in tool for authentication. admin panel. ORM. etc..
+        🔺Scalable-From Small Apps to large-scale platforms
+        🔺Secure - Protects against SQL injection , XSS, CSRF
+        🔺Cross-platforms-works  on windows, mac, Linux
+        🔺Strong community Support - Large Ecosystem of plugins and tutorials
+    
+    ⛔Why Use Django?
+        🔺Fast  development- build projects quickly
+        🔺Security-inbuilt Security best practices
+        🔺Scalability - Handles high trafic and large database
+        🔺Build-in Admin Panel-Manage data without extra coding
+    
+    ⛔Real World Use
+        🔺Instagram - Social media
+        🔺Pinterest - image Sharing platforms
+        🔺Mozilla - Add-one Store
 
-#2.Django Framework
-    🔑Simple Curd Operation
-#3.Rest API Frame
-#4.Fast API
+    ⛔MVT architecture In Django
+        🔺What is MVT?
+        🔺Components of MVT
+        🔺MVT workflow
+     
+     ⛔MVT workflow Step by Step
+        🔺User sends a request (URL)
+        🔺URL Dispatcher maps request to View
+        🔺view interacts with Model to get/save data
+        🔺view sends data to Template
+        🔺Template renders HTML
+        🔺HTML is send as response to user   
+
+    
+    ⛔Installing Python and Django
+        🔺Install Python
+        🔺open cmd terminal project folder through
+        🔺create virtual Enviorment Variable 
+            Ex : Python -m venv my_venv
+                 cd my_venv
+                 Scripts\activate
+        🔺Django Install
+            Ex : pip install django
+
+        🔺create project name
+            Ex : Django-admin startproject my_project_name
+            cd my_project_name
+
+        🔺Create Apps
+            Ex : python manage.py startapp myapp
+
+        🔺Start database reset 
+            Ex : python manage.py migrate
+
+        🔺Create System Super user
+            Ex : python manage.py createsuperuser
+                 username : admin
+                 email    : admin@gmail.com
+                 password : 123
+    
+#3.REST API
+#4.FAST API
 
 
